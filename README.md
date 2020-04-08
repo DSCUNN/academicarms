@@ -52,12 +52,15 @@ Please see the `license agreement ` on academicarms_licence.rst
 *******
 Installation
 *******
-Unzip the file to your web/server root, then navigate to 
+Download and extract the zip file. Within the extracted zip file is the main
+Application file also zipped. Unzip the file to your web/server root, then navigate to 
 http://your-domain/install to start installing our system. 
 Ensure that you have ready either your Paystack or Flutterwave
 API keys or both. After the installation, delete the install folder 
 for security reason, although by default every request to this directory
 is routed to the home page of the system.
+Note that the files outside the zipped academicarms.zip file are just for 
+preview of the main system.
 
 *********
 Resources
